@@ -7,9 +7,12 @@ Además, UneRed promueve la integración estudiantil mediante herramientas inter
 La plataforma también busca incentivar la colaboración en proyectos de investigación y desarrollo, brindando la posibilidad de gestionar archivos y documentos de manera organizada. Con una interfaz intuitiva y funcionalidades adaptadas a las necesidades académicas, UneRed representa una solución innovadora para fortalecer la vinculación entre los estudiantes de la UNELLEZ y mejorar la experiencia educativa en el ámbito digital.
 
 
+
+
 Requisitos Previos
 
 Esta aplicación está diseñada para funcionar con XAMPP, por lo que es necesario tenerlo instalado en el sistema.
+
 
 
 
@@ -31,6 +34,8 @@ Una vez realizados estos cambios, reiniciar el servidor Apache desde el panel de
 
 
 
+
+
 Instalación de UneRed en XAMPP
 
 Para instalar la red social UneRed, seguir los siguientes pasos:
@@ -44,6 +49,7 @@ Para instalar la red social UneRed, seguir los siguientes pasos:
 4.- Importar la base de datos unered.sql en phpMyAdmin y asegurarse de asignarle el mismo nombre unered.
 
 Con estos pasos, UneRed estará lista para su uso en el entorno local.
+
 
 
 
