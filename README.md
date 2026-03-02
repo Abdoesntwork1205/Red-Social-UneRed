@@ -1,6 +1,7 @@
-#Red Social UneRed para la UNELLEZ 
+# Red Social UneRed para los Estudiantes de la UNELLEZ, Barinas
 
 🚀 Descripción del Proyecto "UneRed"
+
 UneRed es una red social diseñada exclusivamente para los estudiantes de la UNELLEZ, con el propósito de proporcionar un espacio digital donde puedan interactuar, compartir conocimientos y desarrollar proyectos en un entorno seguro y colaborativo. La plataforma facilita la creación de contenido académico y social, permitiendo a los usuarios publicar posts, debatir en foros, compartir imágenes, documentos y proyectos, así como participar en discusiones temáticas de interés común.
 
 Además, UneRed promueve la integración estudiantil mediante herramientas interactivas que favorecen la comunicación y el trabajo en equipo, fomentando el aprendizaje colectivo y el intercambio de ideas dentro de la comunidad universitaria. Los estudiantes pueden reaccionar y compartir publicaciones, comentar en los temas de discusión y establecer conexiones significativas con sus compañeros de carrera y facultad.
@@ -9,11 +10,13 @@ La plataforma también busca incentivar la colaboración en proyectos de investi
 
 ------------------------------------------------------------------------------------------------------------
 📋 Requisitos Previos
+
 Esta aplicación está diseñada para funcionar con XAMPP, por lo que es necesario tenerlo instalado en el sistema.
 
 ----------------------------------------------------------------------------------------------------------------
 📧 Configuración para Recuperación de Contraseña y Envío de Código por Correo
 Para habilitar la funcionalidad de recuperación de contraseña y envío de códigos por correo electrónico, se deben realizar los siguientes pasos:
+
 
 Ir a la carpeta importante incluida en el paquete de instalación.
 
@@ -25,11 +28,13 @@ php.ini debe reemplazarse en la carpeta xampp/php/
 
 sendmail.ini debe reemplazarse en la carpeta xampp/sendmail/
 
+
 [!IMPORTANTE]
 Una vez realizados estos cambios, reiniciar el servidor Apache desde el panel de control de XAMPP para aplicar la configuración.
 
 ---------------------------------------------------------------------------------------------------
 🛠️ Instalación de UneRed en XAMPP
+
 Para instalar la red social UneRed, seguir los siguientes pasos:
 
 Copiar la carpeta del proyecto dentro de la carpeta htdocs de XAMPP.
@@ -44,6 +49,7 @@ Con estos pasos, UneRed estará lista para su uso en el entorno local.
 
 -----------------------------------------------------------------------------------------------------
 📝 Notas Adicionales
+
 Si existen problemas con el envío de correos, verificar que el servidor SMTP esté correctamente configurado en sendmail.ini.
 
 Para cualquier configuración adicional, revisar la documentación de PHP Mail y XAMPP.
